@@ -1,1 +1,2 @@
-# unc-s4-devweb-starter
+Projet de départ pour "développement web"
+=========================================
